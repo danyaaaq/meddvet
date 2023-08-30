@@ -1,0 +1,32 @@
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+body{
+    width: 1200px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+.header{
+    background-color: #DDF9FF;
+    padding: 35px 35px;
+}
+.header-wrap{
+    display: flex;
+justify-content: space-between;
+}
+.header-list{
+    display: flex;
+}
+.header-item{
+    margin-right: 32px;
+    margin-left: 32px;
+}
+.header-link{
+    color: #3A2E2E;
+font-size: 16px;
+font-weight: 700;
+cursor: pointer;
+}
